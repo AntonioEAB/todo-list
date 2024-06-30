@@ -17,7 +17,7 @@ Sigue estos pasos para descargar e instalar el proyecto:
 
 2. Instala las dependencias:
   -- npm install
-    o si usas yarn
+    o si usas yarnon
   -- yarn install
 
 ## Scripts disponibles

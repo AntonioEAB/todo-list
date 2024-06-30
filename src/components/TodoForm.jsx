@@ -14,6 +14,7 @@ const TodoForm = ({ todo, onSubmit }) => {
     } else {
       addTodo({ title });
     }
+    setTitle('');
   };
 
   return (
